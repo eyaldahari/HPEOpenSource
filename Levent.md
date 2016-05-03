@@ -19,7 +19,7 @@ http://www.meetup.com/Open-Source-Meetup-HPE-IL/
 - Eyal Levi
 - Uri Kalish (x)
 - [Eitan Schichmanter (x)](https://github.com/eitanshp)
-- Eyal Dahary
+- [Eyal Dahari](https://github.com/eyaldahari)
 - Eyal Levi
 - Lilo Elia
 
